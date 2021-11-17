@@ -2,5 +2,7 @@
 New project of Licence Informatiques - Creation Grid and Brain Tester with Java Code. 
 
 <b> Contributor : </b>
-Evan SEDENO 
-Yassine SOUA 
+<ul> 
+  <li> Evan SEDENO </li>
+  <li> Yassine SOUA </li>
+</ul>
